@@ -15,7 +15,7 @@ git commit(コミット) =   作業ディレクトリーで作業した内容を
 git status  = 現在のgitの状態を確認
 
 
-git branch =  ブランチの一覧を表示するコマンド。　git branch (新しいブランチ名で新ブランチの作成が可能)
+git branch(ブランチ) =  ブランチの一覧を表示するコマンド。　git branch (新しいブランチ名で新ブランチの作成が可能)
 
 
 今日現在、新たに作成するすべてのGitHubリポジトリは、'master'ではなく'main'ブランチがデフォルトブランチとなっている
@@ -34,3 +34,4 @@ git diff = 差分を比較するコマンド
 
 git checkout  = ブランチの切り替えのために使う　git checkout(ブランチ名)
 
+git log = コミットログを表示
