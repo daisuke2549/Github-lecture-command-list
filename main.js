@@ -12,3 +12,5 @@ console.log("hello world");
 
 console.log(100+120);
 
+console.log(100+200);
+
