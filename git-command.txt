@@ -35,8 +35,6 @@ git checkout  = ブランチの切り替えのために使う　git checkout(ブ
 
 git log = コミットログを表示
 
-git merge = マージするために使用するコマンド
 
-
-git stash = 一時的に作業した内容を退避させるコマンド
+GitHub Pagesでのサイト公開について
 
