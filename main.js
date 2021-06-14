@@ -8,6 +8,13 @@ console.log(100+120);
 
 console.log("hello world");
 
+
+
+console.log(100+120);
+
+console.log(100+200);
+
+
 function sum(a,b){
     return a+b;
 }
@@ -20,3 +27,4 @@ const a = 100;
 const b = -20;
 
 console.log(!(a < 0 || b < 0));
+
